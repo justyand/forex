@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014.07.17 13:07:27.496.pas,C:\Users\justy\Documents\Borland Studio Projects\Unit1.pas=C:\Users\justy\Documents\Borland Studio Projects\justyand\fx-report\Unit1.pas</Transaction>
+    <Transaction>2014.07.17 13:07:27.496.dfm,C:\Users\justy\Documents\Borland Studio Projects\Unit1.dfm=C:\Users\justy\Documents\Borland Studio Projects\justyand\fx-report\Unit1.dfm</Transaction>
+    <Transaction>2014.07.17 13:07:33.270.bdsproj,C:\Users\justy\Documents\Borland Studio Projects\Project1.bdsproj=C:\Users\justy\Documents\Borland Studio Projects\justyand\fx-report\fx_report.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
