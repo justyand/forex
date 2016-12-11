@@ -10,4 +10,4 @@ Key is in used indicator in MetaTrader4 ( it generates file with trade info )
 Ahoj,
 
 tato utilitka hlídá otevřené pozice a v plovoucím okně ukazuje aktuální stav obchodu.
-Klíčem je použitý indikátor v MetaTraderu4 ( ten vytváří soubor s informace o obchodu )
+Klíčem je použitý indikátor v MetaTraderu4 ( ten vytváří soubor s informacemi o obchodu )
